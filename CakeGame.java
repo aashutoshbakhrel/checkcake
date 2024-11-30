@@ -6,7 +6,7 @@ public class CakeGame {
         int count1 = 0;
         int count2 = 0;
 
-        System.out.println("Input either 1 or 2 that decides which player will eat the cake");
+        System.out.println("EDITED: Input either 1 or 2 that decides which player will eat the cake");
 
         for (int i = 0; i < 5; i++) {
             int flip = scanner.nextInt();
